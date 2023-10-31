@@ -1,4 +1,5 @@
 # operationsystem 操作系统学习记录  
+CSDN专栏: <https://blog.csdn.net/lijj0304/category_12465256.html>  
 读者优先的读写者问题: read-write.cpp  
 <https://blog.csdn.net/lijj0304/article/details/133721501>  
 写者优先的读写者问题: write-read.cpp  
