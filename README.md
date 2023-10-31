@@ -6,4 +6,6 @@
 生产者消费者问题: producer-consumer.cpp  
 <https://blog.csdn.net/lijj0304/article/details/133722854>  
 哲学家用餐问题: philosopher.cpp  
-<https://blog.csdn.net/lijj0304/article/details/133723685>
+<https://blog.csdn.net/lijj0304/article/details/133723685>  
+银行家算法: bank.cpp  
+<https://blog.csdn.net/lijj0304/article/details/134059646>
