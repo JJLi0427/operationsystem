@@ -12,4 +12,6 @@
 哲学家用餐问题: philosopher.cpp  
 <https://blog.csdn.net/lijj0304/article/details/133723685>  
 银行家算法: bank.cpp  
-<https://blog.csdn.net/lijj0304/article/details/134059646>
+<https://blog.csdn.net/lijj0304/article/details/134059646>  
+页面淘汰算法模拟实现与比较: replace.cpp
+<https://blog.csdn.net/lijj0304/article/details/134177033>
